@@ -69,10 +69,10 @@ export default function ContactSection() {
             <span className="w-8 h-px bg-gold-gradient-h opacity-60" />
           </div>
           <h2 className="font-playfair text-4xl md:text-5xl font-bold text-ivory-100 mb-4">
-            Visit <span className="text-gold-gradient">Ratan Mahal</span>
+            Visit <span className="text-gold-gradient">SWARNA JEWELLERY</span>
           </h2>
           <p className="font-cormorant text-lg text-ivory-200/55 italic max-w-xl mx-auto">
-            We would love to hear from you. Book an appointment or simply walk in — royalty always has a seat at Ratan Mahal.
+            We would love to hear from you. Book an appointment or simply walk in — royalty always has a seat at SWARNA JEWELLERY.
           </p>
           <div className="divider-gold mt-6" />
         </ScrollReveal>
@@ -99,7 +99,7 @@ export default function ContactSection() {
                     We have received your message and will reach out within 24 hours.
                   </p>
                   <p className="font-cormorant italic text-gold-400/70 mt-4 text-lg">
-                    — Ratan Mahal Team
+                    — SWARNA JEWELLERY Team
                   </p>
                 </motion.div>
               ) : (

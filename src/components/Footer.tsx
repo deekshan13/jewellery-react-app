@@ -20,11 +20,11 @@ export default function Footer() {
           {/* Brand Column */}
           <div className="lg:col-span-2">
             <h3 className="font-playfair text-2xl font-bold text-gold-shimmer mb-2 tracking-widest">
-              RATAN MAHAL
+              SWARNA JEWELLERY
             </h3>
             <p className="section-label mb-4">Est. 1998 · Bangalore, India</p>
             <p className="text-ivory-200/50 text-sm leading-relaxed font-inter mb-6 max-w-xs">
-              Where heritage meets craftsmanship. Each piece at Ratan Mahal is a testament
+              Where heritage meets craftsmanship. Each piece at SWARNA JEWELLERY is a testament
               to royal artistry, certified purity, and timeless elegance.
             </p>
 
@@ -93,7 +93,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="border-t border-gold-400/10 pt-6 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-ivory-200/25 text-xs font-inter tracking-wide">
-            © 2026 Ratan Mahal. All rights reserved. | Crafted with ♥ in Bangalore
+            © 2026 SWARNA JEWELLERY. All rights reserved. | Crafted with ♥ in Bangalore
           </p>
           <div className="flex gap-6">
             {['Privacy Policy', 'Terms of Service', 'Sitemap'].map((item) => (

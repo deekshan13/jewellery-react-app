@@ -44,7 +44,7 @@ export default function Navbar() {
             className="group flex flex-col items-start focus:outline-none"
           >
             <span className="font-playfair text-xl md:text-2xl font-bold tracking-widest text-gold-shimmer leading-none">
-              RATAN MAHAL
+              SWARNA JEWELLERY
             </span>
             <span className="section-label text-[0.55rem] mt-0.5">
               Est. 1998 · Bangalore

@@ -110,7 +110,7 @@ export default function HeroSection() {
           >
             Discover our treasured collections — each piece a story of heritage,
             craftsmanship, and eternal beauty. Handcrafted exclusively for you
-            at Ratan Mahal, Bangalore.
+            at SWARNA JEWELLERY, Bangalore.
           </motion.p>
 
           {/* CTAs */}

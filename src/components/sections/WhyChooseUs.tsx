@@ -21,7 +21,7 @@ const cards: WhyCard[] = [
     id: 'exchange',
     title: 'Lifetime Exchange',
     description:
-      'Your trust is our commitment. Exchange any Ratan Mahal jewel at full value, for life — because great relationships last forever.',
+      'Your trust is our commitment. Exchange any SWARNA JEWELLERY jewel at full value, for life — because great relationships last forever.',
     icon: 'RefreshCw',
   },
   {
@@ -56,11 +56,11 @@ export default function WhyChooseUs() {
         <ScrollReveal direction="up" className="text-center mb-16">
           <div className="flex items-center justify-center gap-3 mb-4">
             <span className="w-8 h-px bg-gold-gradient-h opacity-60" />
-            <span className="section-label">Why Ratan Mahal</span>
+            <span className="section-label">Why SWARNA JEWELLERY</span>
             <span className="w-8 h-px bg-gold-gradient-h opacity-60" />
           </div>
           <h2 className="font-playfair text-4xl md:text-5xl font-bold text-ivory-100 mb-4">
-            The <span className="text-gold-gradient">Ratan Mahal</span> Promise
+            The <span className="text-gold-gradient">SWARNA JEWELLERY</span> Promise
           </h2>
           <p className="font-cormorant text-lg text-ivory-200/55 italic max-w-xl mx-auto">
             More than jewellery — a relationship built on trust, artistry, and timeless quality.

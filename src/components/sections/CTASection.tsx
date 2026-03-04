@@ -70,7 +70,7 @@ export default function CTASection() {
           <div className="divider-gold mt-4 mb-6" />
 
           <p className="font-cormorant text-xl md:text-2xl text-ivory-200/65 italic leading-relaxed mb-10 max-w-2xl mx-auto">
-            Walk into Ratan Mahal and walk out wearing a story. 
+            Walk into SWARNA JEWELLERY and walk out wearing a story. 
             Whether it's your bridal trousseau or a precious gift, 
             we have the perfect piece waiting for you.
           </p>

@@ -26,7 +26,7 @@ export default function AboutSection() {
               <div className="relative overflow-hidden">
                 <img
                   src="https://images.unsplash.com/photo-1601121141418-7fd0ea785c4b?w=700&q=80&auto=format&fit=crop"
-                  alt="Ratan Mahal — Master Jewellers at Work"
+                  alt="SWARNA JEWELLERY — Master Jewellers at Work"
                   loading="lazy"
                   className="w-full object-cover aspect-[4/5] grayscale-[20%] hover:grayscale-0 transition-all duration-700"
                 />
@@ -61,12 +61,12 @@ export default function AboutSection() {
               <div className="divider-gold mb-8" style={{ margin: '0 0 2rem 0', width: '60px' }} />
 
               <p className="font-cormorant text-xl text-ivory-200/65 italic leading-relaxed mb-5">
-                "Every jewel tells a story. At Ratan Mahal, we have been weaving those
+                "Every jewel tells a story. At SWARNA JEWELLERY, we have been weaving those
                 stories into gold and precious stones for over two decades."
               </p>
 
               <p className="text-ivory-200/50 font-inter text-sm leading-relaxed mb-5">
-                Founded in 1998 in the heart of Bangalore, Ratan Mahal was born from a
+                Founded in 1998 in the heart of Bangalore, SWARNA JEWELLERY was born from a
                 passion for royal Indian jewellery-making traditions. Our master craftsmen,
                 many carrying forward family legacies spanning generations, create each
                 piece with meticulous attention to detail and an unwavering commitment
@@ -75,7 +75,7 @@ export default function AboutSection() {
 
               <p className="text-ivory-200/50 font-inter text-sm leading-relaxed mb-10">
                 From resplendent bridal sets to everyday elegance — we believe jewellery
-                is not just an ornament, but a heritage you carry forward. Every Ratan Mahal
+                is not just an ornament, but a heritage you carry forward. Every SWARNA JEWELLERY
                 piece comes with a lifetime exchange guarantee and BIS hallmark certification.
               </p>
 

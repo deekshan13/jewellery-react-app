@@ -11,7 +11,7 @@ const testimonials: Testimonial[] = [
     location: 'Bangalore, Karnataka',
     rating: 5,
     review:
-      'My bridal set from Ratan Mahal was absolutely breathtaking. Every guest at my wedding was in awe. The craftsmanship is unparalleled — each piece felt like it was made for a queen. Worth every rupee and more.',
+      'My bridal set from SWARNA JEWELLERY was absolutely breathtaking. Every guest at my wedding was in awe. The craftsmanship is unparalleled — each piece felt like it was made for a queen. Worth every rupee and more.',
     purchase: 'Bridal Gold & Diamond Set',
   },
   {
@@ -20,7 +20,7 @@ const testimonials: Testimonial[] = [
     location: 'Mysuru, Karnataka',
     rating: 5,
     review:
-      'I commissioned a custom mangalsutra design and the team at Ratan Mahal executed it flawlessly. They understood my vision perfectly and delivered something beyond my imagination. The quality and purity certifications gave me complete peace of mind.',
+      'I commissioned a custom mangalsutra design and the team at SWARNA JEWELLERY executed it flawlessly. They understood my vision perfectly and delivered something beyond my imagination. The quality and purity certifications gave me complete peace of mind.',
     purchase: 'Custom Mangalsutra',
   },
   {
@@ -29,7 +29,7 @@ const testimonials: Testimonial[] = [
     location: 'Chennai, Tamil Nadu',
     rating: 5,
     review:
-      'I\'ve been a loyal customer for 12 years. The lifetime exchange policy is genuine — I recently exchanged my old gold jewellery and the process was seamless. Ratan Mahal is where trust meets elegance.',
+      'I\'ve been a loyal customer for 12 years. The lifetime exchange policy is genuine — I recently exchanged my old gold jewellery and the process was seamless. SWARNA JEWELLERY is where trust meets elegance.',
     purchase: 'Gold Necklace Set',
   },
   {
@@ -38,7 +38,7 @@ const testimonials: Testimonial[] = [
     location: 'Hyderabad, Telangana',
     rating: 5,
     review:
-      'The diamond ring I purchased for my anniversary was certified IGI and the sparkle is absolutely divine. The gift packaging was also incredibly luxurious. My husband was speechless. Ratan Mahal truly understands royalty.',
+      'The diamond ring I purchased for my anniversary was certified IGI and the sparkle is absolutely divine. The gift packaging was also incredibly luxurious. My husband was speechless. SWARNA JEWELLERY truly understands royalty.',
     purchase: 'Solitaire Diamond Ring',
   },
   {
@@ -47,7 +47,7 @@ const testimonials: Testimonial[] = [
     location: 'Kochi, Kerala',
     rating: 5,
     review:
-      'From the moment I walked in to when I walked out with my purchase, the experience at Ratan Mahal was world-class. The staff is knowledgeable, patient, and passionate about jewellery. My Kerala gold set is heirloom-worthy.',
+      'From the moment I walked in to when I walked out with my purchase, the experience at SWARNA JEWELLERY was world-class. The staff is knowledgeable, patient, and passionate about jewellery. My Kerala gold set is heirloom-worthy.',
     purchase: 'Kerala Traditional Gold Set',
   },
 ];
