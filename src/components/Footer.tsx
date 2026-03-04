@@ -7,10 +7,10 @@ const footerLinks = {
 };
 
 export default function Footer() {
-  const handleScroll = (id: string) => {
-    const el = document.getElementById(id);
-    if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
-  };
+  // const handleScroll = (id: string) => {
+  //   const el = document.getElementById(id);
+  //   if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  // };
 
   return (
     <footer className="bg-charcoal-900 border-t border-gold-400/10 pt-16 pb-8">
